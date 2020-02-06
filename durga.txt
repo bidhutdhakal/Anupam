@@ -1,4 +1,5 @@
 Hi my name is Durga. 
 I am learning GitHub.
 I am passionate about learning devops
-I love studying.
+I love studying
+i love travelling.
